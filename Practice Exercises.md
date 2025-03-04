@@ -14,9 +14,9 @@ Virda Septina Putri
 
 1.2 We have stressed the need for an operating system to forsake this principle and to "waste" resources? Why is such a system not really wasteful?
 
-      Answer: 
+Answer: 
 
-      `	`The idea of an operating system "wasting" resources might seem counterintuitive, but in certain contexts, it is done to achieve higher-level goals such as performance optimization, user experience, or system reliability. Here's why such a system is not truly wasteful:
+ `	`The idea of an operating system "wasting" resources might seem counterintuitive, but in certain contexts, it is done to achieve higher-level goals such as performance optimization, user experience, or system reliability. Here's why such a system is not truly wasteful:
 
 1. Improving Performance Through Redundancy
 2. Enhancing User Experience
@@ -86,7 +86,7 @@ b. Issue a trap instruction: Traps (such as system calls) are a controlled way f
 
 1.7 Some early computers protected the operating system by placing it in a memory partition that could not be modified by either the user job or the operating system itself. Describe two difficulties that you think could arise with such a scheme.
 
-      Answer: 
+Answer: 
 
 1. Lack of Flexibility for Updates and Bug Fixes
 
@@ -98,7 +98,7 @@ b. Issue a trap instruction: Traps (such as system calls) are a controlled way f
 
 1.8 Some CPUs provide for more than two modes of operation. What are two possible uses of these multiple modes?
 
-      Answer: 
+Answer: 
 
 1. Enhanced Security Through Privilege Levels
 
@@ -110,9 +110,9 @@ b. Issue a trap instruction: Traps (such as system calls) are a controlled way f
 
 1.9 Timers could be used to compute the current time. Provide a short description of how this could be accomplished.
 
-      Answer:
+Answer:
 
-      `	`Timers play a crucial role in an operating system, including keeping track of the current time. Here's how a timer can be used to compute the current time:
+`	`Timers play a crucial role in an operating system, including keeping track of the current time. Here's how a timer can be used to compute the current time:
 
 1. System Initialization: When the OS starts, it sets an initial time value, usually based on hardware clocks, a real-time clock (RTC) chip, or a network time protocol (NTP) server.
 2. Timer Interrupts: The OS configures a hardware timer to generate periodic interrupts at a fixed interval (e.g., every millisecond). Each time the timer generates an interrupt, the OS increments a counter that represents the passage of time.
@@ -125,11 +125,11 @@ b. Issue a trap instruction: Traps (such as system calls) are a controlled way f
 
 1.10. Give two reasons why caches are useful. What problems do they solve? What problems do they cause? If a cache can be made as large as the device for which it is caching (for instance, a cache as large as a disk), why not make it that large and eliminate the device?
 
-      Answer: 
+Answer: 
 
-      `	`Caches play a crucial role in improving system performance by storing frequently accessed data closer to the processor.
+`	`Caches play a crucial role in improving system performance by storing frequently accessed data closer to the processor.
 
-      Why caches are useful: 
+Why caches are useful: 
 
 1. Speed Improvement: accessing data from main memory (RAM) or disk storage is significantly slower than accessing it from a cache. By keeping frequently used data in a smaller, faster memory location, caches reduce latency and improve system performance.
 2. Reduced Bottlenecks: Since caches store copies of recently accessed data, they help reduce the load on slower storage devices like hard drives or even RAM. This improves the overall efficiency of the system and prevents unnecessary delays.
@@ -151,17 +151,17 @@ But, Why not just make the cache as large as the device?
 
 1.11 Distinguish between the client-server and peer-to-peer models of dis-tributed systems.
 
-      Answer:
+Answer:
 
-      `	`The client-server model works well for systems needing central management and security, while peer-to-peer is better for decentralized applications that require flexibility and resilience. Many modern systems, like cloud computing and hybrid networks, actually use a mix of both to balance efficiency and reliability.
+`	`The client-server model works well for systems needing central management and security, while peer-to-peer is better for decentralized applications that require flexibility and resilience. Many modern systems, like cloud computing and hybrid networks, actually use a mix of both to balance efficiency and reliability.
 
 	
 
-      |Feature|Client-server|Peer-to-peer|
-      | :- | :- | :- |
-      |Control|Centralized (server manages everything)|Decentralized (all peers are equal)|
-      |Scalability|Can become overloaded|More scalable as peers share the load|
-      |Reliability|Server failure disrupts the system|More fault-tolerant|
-      |Security|Easier to enforce security policies|Harder to secure due to lack of central control|
+|Feature|Client-server|Peer-to-peer|
+| :- | :- | :- |
+|Control|Centralized (server manages everything)|Decentralized (all peers are equal)|
+|Scalability|Can become overloaded|More scalable as peers share the load|
+|Reliability|Server failure disrupts the system|More fault-tolerant|
+|Security|Easier to enforce security policies|Harder to secure due to lack of central control|
 
 
