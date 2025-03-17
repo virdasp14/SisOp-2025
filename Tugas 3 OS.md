@@ -8,7 +8,7 @@
 
 **Jawab:**
 
-![Flowchart Booting Linux](media/image1.png)
+!
 
 ### 2. Apa perbedaan multiprogramming dengan multitasking?
 
