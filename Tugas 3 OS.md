@@ -8,7 +8,7 @@
 
 **Jawab:**
 
-![Flowchart Booting Linux](SisOP-2025/flowchart proses booting revisi1.png)
+![Flowchart Booting Linux](https://github.com/virdasp14/SisOp-2025/blob/main/flowchart%20proses%20booting%20revisi1.png?raw=true)
 
 ### 2. Apa perbedaan multiprogramming dengan multitasking?
 
