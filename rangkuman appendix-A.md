@@ -11,7 +11,7 @@ Sistem operasi modern adalah hasil dari puluhan tahun inovasi yang dimulai dari 
 ### 2. Era Awal Komputer Manual ke Sistem Batch  
 
 #### 2.1 Komputer Generasi Awal (1940-1950an)  
-- ** a) Manchester Mark 1 (1949) dan Ferranti Mark 1 (1951)**:  
+- **a) Manchester Mark 1 (1949) dan Ferranti Mark 1 (1951)**:  
   Dioperasikan secara manual melalui console. Programmer memuat instruksi satu per satu menggunakan punched cards atau paper tape. Tidak ada OS; eksekusi program bersifat interaktif dan membutuhkan intervensi manusia secara konstan.  
 
 #### 2.2 Sistem Dedikasi dan Batch  
