@@ -16,8 +16,8 @@ Sistem operasi modern adalah hasil dari puluhan tahun inovasi yang dimulai dari 
 
 #### 2.2 Sistem Dedikasi dan Batch  
 Masalah utama pada waktu setup yang lama (misal: mounting tape) menyebabkan CPU idle. Solusi bisa didapatkan dengan:  
-- ** a) Resident Monitor**: Program kecil yang selalu berada di memori, mengotomatiskan urutan eksekusi job menggunakan control cards (misal: `$JOB`, `$FTN`, `$END`).  
-- ** b) Spooling**: Menggunakan disk sebagai buffer untuk input/output, memungkinkan overlap antara komputasi dan I/O. Contoh: Sistem membaca input dari disk sementara CPU menjalankan job lain.  
+- **a) Resident Monitor**: Program kecil yang selalu berada di memori, mengotomatiskan urutan eksekusi job menggunakan control cards (misal: `$JOB`, `$FTN`, `$END`).  
+- **b) Spooling**: Menggunakan disk sebagai buffer untuk input/output, memungkinkan overlap antara komputasi dan I/O. Contoh: Sistem membaca input dari disk sementara CPU menjalankan job lain.  
 
 #### 2.3 Overlapped I/O dan Dampaknya  
 Adanya keterbatasan tape sequential, tape harus diisi sepenuhnya sebelum diproses, menyebabkan delay. Revolusi Disk Random-Access yang menyebabkan disk memungkinkan akses cepat ke data di lokasi mana pun, mempercepat spooling dan memunculkan konsep multiprogramming.  
@@ -38,9 +38,9 @@ Adanya keterbatasan tape sequential, tape harus diisi sepenuhnya sebelum diprose
 Message-Passing merupakan proses berkomunikasi dengan mengirim pesan fixed-size (8 words), konsep yang dipakai di sistem modern seperti Mach.  
 
 #### 3.5 CTSS (1961) dan MULTICS (1965–1970): Time-Sharing Utility  
-- ** a) CTSS**:  
+- **a) CTSS**:  
   - Multilevel Feedback Queue merupakan Proses dengan CPU burst pendek diprioritaskan. Dampaknya membuktikan time-sharing layak dipakai, memicu pengembangan MULTICS.  
-- ** b) MULTICS**:  
+- **b) MULTICS**:  
   - Segmented-Paged Memory merupakan gabungan segmentasi dan paging untuk fleksibilitas. Hierarchical File System adalah struktur direktori mirip UNIX. 
 Kegagalan Komersial bisa terlalu kompleks, tetapi ide-idenya hidup di UNIX.  
 
