@@ -4,8 +4,7 @@ Virda Septina Putri
 
 **Mencoba flops-iops**
 
-![](./image1.png){width="3.4233311461067366in"
-height="2.5867300962379702in"}
+![flops-iops image1](https://github.com/virdasp14/SisOp-2025/blob/main/flopsiops%20image1.jpeg?raw=true)
 
 Sebelum menjalankan perintah pada flops-iops, tambahkan folder
 flops-iops yang ada pada github, setelah menambahkan folder flops-iops
