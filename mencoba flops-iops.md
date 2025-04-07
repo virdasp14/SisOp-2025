@@ -19,8 +19,7 @@ Jalankan perintah iops64 seperti pada gambar di atas dan akan terlihat
 outputnya. Perintah dari iops64 digunakan untuk mengukur 64-bit Integer
 Operations Per Second menggunakan 8 core CPU.
 
-![](./image2.png){width="3.4229166666666666in"
-height="1.9903838582677165in"}
+![flops-iops image2](https://github.com/virdasp14/SisOp-2025/blob/main/flopsiops%20image2.jpeg?raw=true)
 
 Jalankan perintah flops64, iops32, dan flops32 seperti pada gambar di
 atas dan akan terlihat outputnya. Perintah flops64 digunakan untuk
