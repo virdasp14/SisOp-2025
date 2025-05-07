@@ -26,7 +26,9 @@ Dosen Pengajar  	: Dr Ferry Astika Saputra ST, M.Sc
 
 **POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)**
 
-**TAHUN 2024**
+**TAHUN 2025**
+
+
 
 FCFS scheduling with arrival time
 
@@ -103,6 +105,8 @@ RT (Response Time) = 21
 Proses yang datang lebih dulu mendapat prioritas penuh hingga selesai.
 
 Waktu respons = waktu tunggu (Karena proses tidak di-preempt (dimasukkan ke dalam antrian) saat dijalankan).
+
+
 
 FCFS Scheduling without arrival time
 
