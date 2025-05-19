@@ -3,7 +3,7 @@
 
 ![Output (Without Arrival Time ](https://github.com/virdasp14/SisOp-2025/blob/main/Output%20(Without%20Arrival%20Time)%20SJF%20Scheduling%20Algorithms.jpeg?raw=true)
 
-![Tabel Eksekusi](https://github.com/virdasp14/SisOp-2025/blob/main/flopsiops%20image1.jpeg?raw=true)
+![Tabel Eksekusi](https://github.com/virdasp14/SisOp-2025/blob/main/Tabel%20Eksekusi%20(Without%20Arrival%20Time)%20SJF%20Scheduling%20Algorithm.jpeg?raw=true)
 
 
 
