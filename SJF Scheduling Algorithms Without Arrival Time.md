@@ -9,10 +9,10 @@
 ## Langkah-langkah Penjadwalan
 
 1. P4 (BT = 1) → Paling kecil → dijalankan pertama kali.
-2. P2 (BT = 3) dan P5 (BT = 3) → Burst time sama, maka urutan berdasarkan input (P2 terlebih dahulu).
+2. P2 (BT = 3) dan P5 (BT = 3) → tie (sama besar), maka urutan berdasarkan input (P2 terlebih dahulu).
 3. P5 (BT = 3)
 4. P3 (BT = 4)
-5. P1 (BT = 7) → Paling akhir karena burst time terbesar.
+5. P1 (BT = 7) → Paling akhir.
 
 ## Tabel Eksekusi
 
@@ -31,4 +31,4 @@
 
 ## Kesimpulan
 
-Algoritma **SJF Non-Preemptive** menghasilkan **waktu tunggu dan turnaround time yang optimal** jika **arrival time tidak dipertimbangkan**. Namun, jika banyak proses kecil datang terlambat, maka proses-proses tersebut harus menunggu. Hal ini bisa menyebabkan **starvation** untuk proses dengan burst time besar.
+Algoritma **SJF Non-Preemptive** menghasilkan **waktu tunggu dan turnaround time yang optimal** jika **arrival time tidak dipertimbangkan**. Namun, jika banyak proses kecil datang terlambat, maka harus menunggu, sehingga SJF dapat menyebabkan **starvation** untuk proses dengan burst time besar.
