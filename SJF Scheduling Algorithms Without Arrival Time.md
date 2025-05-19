@@ -20,16 +20,6 @@
 4. P3 (BT = 4)
 5. P1 (BT = 7) → Paling akhir.
 
-## Tabel Eksekusi
-
-| Proses | Burst Time (BT) | Completion Time (CT) | Turnaround Time (TAT) | Waiting Time (WT) |
-|--------|------------------|----------------------|------------------------|-------------------|
-| P4     | 1                | 1                    | 1                      | 0                 |
-| P2     | 3                | 4                    | 4                      | 1                 |
-| P5     | 3                | 7                    | 7                      | 4                 |
-| P3     | 4                | 11                   | 11                     | 7                 |
-| P1     | 7                | 18                   | 18                     | 11                |
-
 ## Rata-rata
 
 - **Turnaround Time (TAT)** = (1 + 4 + 7 + 11 + 18) / 5 = **8.2**
