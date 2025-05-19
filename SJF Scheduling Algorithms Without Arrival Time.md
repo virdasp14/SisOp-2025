@@ -1,6 +1,12 @@
 
 # SJF Scheduling Without Arrival Time
 
+![Output (Without Arrival Time ](https://github.com/virdasp14/SisOp-2025/blob/main/flopsiops%20image1.jpeg?raw=true)
+
+![Tabel Eksekusi](https://github.com/virdasp14/SisOp-2025/blob/main/flopsiops%20image1.jpeg?raw=true)
+
+
+
 ## Penjelasan
 
 - **Non-Preemptive**: Setelah suatu proses mulai dieksekusi, maka proses tersebut tidak akan dihentikan hingga selesai.
