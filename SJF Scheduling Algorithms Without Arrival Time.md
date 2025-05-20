@@ -13,13 +13,13 @@ Dosen Pengajar    : Dr Ferry Astika Saputra ST, M.Sc
 **PROGRAM STUDI D3 TEKNIK INFORMATIKA \
 POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS) TAHUN 2025** 
 
-SJS Sceduling Without Arrival Time 
+# SJS Sceduling Without Arrival Time 
 
 ![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.002.jpeg)
 
 ![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.003.png)
 
-Penjelasan: 
+## Penjelasan: 
 
 Non-Preemptive → setelah suatu proses memulai dieksekusi maka tidak akan di hentikan hingga selesai. 
 
@@ -37,19 +37,19 @@ Turnaround Time = (1+4+7+11+18)/5=8.2 Waiting Time = (0+1+4+7+11)/5=4.6
 
 Algoritma SJF Non-Preemptive menghasilkan waktu tunggu dan turnaund time yang optimal jika arrival time tidak dipertimbangkan. Jika banyak proses kecil datang terlambat maka harus menunggu, sehingga SJF dapat menyebabkan starvation untuk proses dengan burst time besar. 
 
-SJF Scheduling Algorithms With Arrival Time 
+# SJF Scheduling Algorithms With Arrival Time 
 
 ![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.004.png)
 
 ![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.005.png)
 
-Penjelasan: 
+## Penjelasan: 
 
 1. P3 (AT=0, BT=3) 
    1. Selesai pada waktu 3 (CT=3) 
    1. TAT = 3-0 = 3 
    1. Witing time = 0 
-1. Proses setelah P3 (Waktu = 3) 
+2. Proses setelah P3 (Waktu = 3) 
 - P1 (AT = 2), P2 (AT = 1), P4 (AT = belum tiba) 
 - Memilih proses dengan BT terkecil antara P1 (BT=5) dan P2 (BT=6) 
 - P1 dieksekusi 
@@ -62,19 +62,19 @@ Penjelasan:
    1. Selesai pada waktu 12 (CT = 8+4 = 12) 
    1. TAT = 12 -5 = 7 
    1. Waiting time = 7-4 = 3 
-3. Proses berikutnya dengan waktu = 12 
+4. Proses berikutnya dengan waktu = 12 
    1. P2 (BT = 6), P5 (BT = 7) 
    1. Pilih P2 (BT=6) 
    1. Selesai pada waktu 18 (CT = 12+6 = 18) 
    1. TAT = 18-1 = 17 
    1. Waiting time = 17 - 6 = 11 
-3. Proses terakhir dengan waktu = 18 
+5. Proses terakhir dengan waktu = 18 
    1. P5 (BT = 7) 
    1. Selesai pada waktu 25 (CT = 18+7 = 25) 
    1. TAT = 25 - 8 = 17 
    1. Waiting time = 17 - 7 = 10 
 
-SRTF Scheduling Algorithms 
+# SRTF Scheduling Algorithms 
 
 ![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.006.jpeg)
 
@@ -167,7 +167,7 @@ BT = lama eksekusi proses
 |P4 |2 |1 |1 |
 |P5 |4 |2 |2 |
 
-5. Rata-Rata 
+4. Rata-Rata 
 
    Average Turnaround Time (Rata-rata TAT) (10 + 3 + 15 + 2 + 4)/5 = 34/5 = 6,8 
 
