@@ -17,7 +17,7 @@ POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS) TAHUN 2025**
 
 ![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.002.jpeg)
 
-![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.003.png)
+![](WhatsApp Image 2025-05-26 at 1.38.42 PM.jpeg)
 
 ## Penjelasan: 
 
