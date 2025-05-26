@@ -17,7 +17,7 @@ POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS) TAHUN 2025**
 
 ![](Aspose.Words.ab7a7bbd-7f85-4f29-93cb-7cbe4eb29f2c.002.jpeg)
 
-![](WhatsApp Image 2025-05-26 at 1.38.42 PM.jpeg?raw=true)
+![](https://github.com/virdasp14/SisOp-2025/blob/main/WhatsApp%20Image%202025-05-26%20at%201.38.42%20PM.jpeg?raw=true)
 
 ## Penjelasan: 
 
