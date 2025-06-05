@@ -1,8 +1,11 @@
-Virda Septina Putri
 
-312450058 / D3 IT B
+**Nama:** Virda Septina Putri  
+**NRP:** 3124500058  
+**Kelas:** 1 D3 IT B  
+**Dosen Pengajar:** Dr. Ferry Astika Saputra ST, M.Sc  
 
-**Mencoba flops-iops**
+
+## Mencoba flops-iops
 
 ![flops-iops image1](https://github.com/virdasp14/SisOp-2025/blob/main/flopsiops%20image1.jpeg?raw=true)
 
